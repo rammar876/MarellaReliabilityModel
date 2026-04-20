@@ -1,2 +1,2 @@
-# AI-driven-reliability-model
+# MarellaReliabilityModel
 Marella Reliability Model (MRM)—an AI-driven framework designed to improve reliability in multi-cloud financial systems. It focuses on moving from reactive monitoring to predictive observability, enabling organizations to detect issues early, automate incident response, and optimize cloud costs. The approach combines SRE, machine learning, and FinOps to deliver more resilient, efficient, and scalable platforms.
