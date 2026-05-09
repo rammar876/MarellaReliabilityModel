@@ -1,4 +1,4 @@
-# MarellaReliabilityModel
+# Marella-Reliability-Model
 
 Al-Driven Observability and Reliability Framework for Multi-Cloud Financial Systems.
 
