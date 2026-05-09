@@ -1,5 +1,3 @@
-# Marella-Reliability-Model
-
 Al-Driven Observability and Reliability Framework for Multi-Cloud Financial Systems.
 
 Welcome to the Marella Reliability Model (MRM) repository. This project provides an Al-driven framework for predictive observability and cost optimization in multi-cloud financial platforms.
